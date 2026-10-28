@@ -18,7 +18,7 @@ I'm building toward full-time cloud security engineering: turning security probl
 ## What I build
 
 - **Azure VM automation (PowerShell)** — custom images and VM lifecycle: [PowerShell-Azure](https://github.com/eimathur/PowerShell-Azure)
-- **Security automation (Python)** — triage, routing, and reporting workflows with human review
+- **Security automation** — triage, routing, and reporting workflows with human review (approach I use; public repo to follow)
 
 More projects land here as they're built — each one with a README that explains the problem, the approach, and how to run it.
 
