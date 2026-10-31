@@ -1,3 +1,5 @@
+![Profile banner: CLOUD SECURITY • AZURE & AWS — Turning messy security findings into systems teams can actually use. BUILD / PROVE / PUBLISH.](profile-banner-diagram.png)
+
 # Ezekiel Mathur
 
 **Cloud Security Engineer | Azure & AWS | DevSecOps & Security Automation**
@@ -16,6 +18,12 @@ I'm building toward full-time cloud security engineering: turning security probl
 - **AZ-104 Azure Administrator** — in preparation
 
 ## What I build
+
+**BUILD → PROVE → PUBLISH** — the pattern behind everything I ship:
+
+- **BUILD** — security automation: triage, routing, and reporting workflows that turn messy findings into systems teams can actually use.
+- **PROVE** — every system built with human review and guardrails — never a black box.
+- **PUBLISH** — built in the open, each project documented so it can be read, run, and reused.
 
 - **Azure VM automation (PowerShell)** — custom images and VM lifecycle: [PowerShell-Azure](https://github.com/eimathur/PowerShell-Azure)
 - **Security automation** — triage, routing, and reporting workflows with human review (approach I use; public repo to follow)
